@@ -1,9 +1,5 @@
 ### Hi I am Dr. Dhanya N.M. 👋
 
-<!--
-**dhanyahari07/dhanyahari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 I’m currently working with Amrita Vishwa Vidiyapeetham. 
 - 🌱 I’m currently handling Deep learning, Machine Learning and Data Science.
@@ -13,4 +9,4 @@
 - 📫 How to reach me: dhanyahari07@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
